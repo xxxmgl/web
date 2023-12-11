@@ -1,17 +1,18 @@
 ---
-date: 2017-04-13T11:15:58-04:00
-description: "Quasimodo"
-featured_image: ""
-tags: []
-title: "Chapter V: Quasimodo"
+date: 2023-04-09T10:58:08-04:00
+description: "华为欧洲小镇"
+featured_image: "/images/huawei.jpg"
+tags: ["scene"]
+title: "华为欧洲小镇"
 ---
 
-In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion. It was settled that each candidate, man or woman (for it was possible to choose a female pope), should, for the sake of leaving the impression of his grimace fresh and complete, cover his face and remain concealed in the chapel until the moment of his appearance. In less than an instant, the chapel was crowded with competitors, upon whom the door was then closed.
+我们公司非常荣幸地完成了华为欧洲小镇的办公设计项目，这个项目不仅体现了我们公司的设计理念和专业能力，也展示了我们的创新精神和对人性化的重视。
 
-Coppenole, from his post, ordered all, directed all, arranged all. During the uproar, the cardinal, no less abashed than Gringoire, had retired with all his suite, under the pretext of business and vespers, without the crowd which his arrival had so deeply stirred being in the least moved by his departure. Guillaume Rym was the only one who noticed his eminence’s discomfiture. The attention of the populace, like the sun, pursued its revolution; having set out from one end of the hall, and halted for a space in the middle, it had now reached the other end. The marble table, the brocaded gallery had each had their day; it was now the turn of the chapel of Louis XI. Henceforth, the field was open to all folly. There was no one there now, but the Flemings and the rabble.
+在华为总部的设计中，我们充分考虑了员工的需求和舒适度，将现代化的办公设施与古典建筑风格相结合，营造出一个既富有艺术感又实用的工作环境。
+我们以欧洲的古典建筑为灵感，将园区划分为12个主题区域，每个区域都以其特色建筑为蓝本进行设计，让员工在工作中也能感受到浓厚的人文气息。
 
-The grimaces began. The first face which appeared at the aperture, with eyelids turned up to the reds, a mouth open like a maw, and a brow wrinkled like our hussar boots of the Empire, evoked such an inextinguishable peal of laughter that Homer would have taken all these louts for gods. Nevertheless, the grand hall was anything but Olympus, and Gringoire’s poor Jupiter knew it better than any one else. A second and third grimace followed, then another and another; and the laughter and transports of delight went on increasing. There was in this spectacle, a peculiar power of intoxication and fascination, of which it would be difficult to convey to the reader of our day and our salons any idea.
+此外，我们还注重环保和可持续发展，在建筑设计和材料选择上都力求做到节能和环保。园区内大量使用绿色建筑材料，充分利用自然光和通风，降低了能耗。
+同时，我们也种植了大量的植物，打造了一个宜人的生态环境。
 
-Let the reader picture to himself a series of visages presenting successively all geometrical forms, from the triangle to the trapezium, from the cone to the polyhedron; all human expressions, from wrath to lewdness; all ages, from the wrinkles of the new-born babe to the wrinkles of the aged and dying; all religious phantasmagories, from Faun to Beelzebub; all animal profiles, from the maw to the beak, from the jowl to the muzzle. Let the reader imagine all these grotesque figures of the Pont Neuf, those nightmares petrified beneath the hand of Germain Pilon, assuming life and breath, and coming in turn to stare you in the face with burning eyes; all the masks of the Carnival of Venice passing in succession before your glass,—in a word, a human kaleidoscope.
-
-The orgy grew more and more Flemish. Teniers could have given but a very imperfect idea of it. Let the reader picture to himself in bacchanal form, Salvator Rosa’s battle. There were no longer either scholars or ambassadors or bourgeois or men or women; there was no longer any Clopin Trouillefou, nor Gilles Lecornu, nor Marie Quatrelivres, nor Robin Poussepain. All was universal license. The grand hall was no longer anything but a vast furnace of effrontry and joviality, where every mouth was a cry, every individual a posture; everything shouted and howled. The strange visages which came, in turn, to gnash their teeth in the rose window, were like so many brands cast into the brazier; and from the whole of this effervescing crowd, there escaped, as from a furnace, a sharp, piercing, stinging noise, hissing like the wings of a gnat.
+华为欧洲小镇的办公设计项目是我们公司的代表作之一，它充分展现了我们的专业能力和创新精神。
+我们将继续努力，为客户创造更多优秀的办公环境，满足他们的需求并超越他们的期待。

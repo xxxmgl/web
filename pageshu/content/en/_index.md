@@ -7,4 +7,4 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to Shanghai Modern Office Design Co., LTD. We focus on the design and decoration of office space, and are committed to providing customers with an efficient and comfortable working environment. See our case presentations to understand our design concepts and results.

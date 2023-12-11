@@ -1,86 +1,18 @@
 ---
-date: 2017-04-12T11:14:48-04:00
-description: "Master Jacques Coppenole"
-featured_image: ""
+date: 2023-04-09T10:58:08-04:00
+description: "华为欧洲小镇"
+featured_image: "/images/huawei.jpg"
 tags: ["scene"]
-title: "Chapter IV: Master Jacques Coppenole"
+title: "华为欧洲小镇"
 ---
-While the pensioner of Ghent and his eminence were exchanging very low
-bows and a few words in voices still lower, a man of lofty stature, with a
-large face and broad shoulders, presented himself, in order to enter
-abreast with Guillaume Rym; one would have pronounced him a bull-dog by
-the side of a fox. His felt doublet and leather jerkin made a spot on the
-velvet and silk which surrounded him. Presuming that he was some groom who
-had stolen in, the usher stopped him.
 
-“Hold, my friend, you cannot pass!”
+我们公司非常荣幸地完成了华为欧洲小镇的办公设计项目，这个项目不仅体现了我们公司的设计理念和专业能力，也展示了我们的创新精神和对人性化的重视。
 
-The man in the leather jerkin shouldered him aside.
+在华为总部的设计中，我们充分考虑了员工的需求和舒适度，将现代化的办公设施与古典建筑风格相结合，营造出一个既富有艺术感又实用的工作环境。
+我们以欧洲的古典建筑为灵感，将园区划分为12个主题区域，每个区域都以其特色建筑为蓝本进行设计，让员工在工作中也能感受到浓厚的人文气息。
 
-“What does this knave want with me?” said he, in stentorian tones, which
-rendered the entire hall attentive to this strange colloquy. “Don’t you
-see that I am one of them?”
+此外，我们还注重环保和可持续发展，在建筑设计和材料选择上都力求做到节能和环保。园区内大量使用绿色建筑材料，充分利用自然光和通风，降低了能耗。
+同时，我们也种植了大量的植物，打造了一个宜人的生态环境。
 
-“Your name?” demanded the usher.
-
-“Jacques Coppenole.”
-
-“Your titles?”
-
-“Hosier at the sign of the ‘Three Little Chains,’ of Ghent.”
-
-The usher recoiled. One might bring one’s self to announce aldermen and
-burgomasters, but a hosier was too much. The cardinal was on thorns. All
-the people were staring and listening. For two days his eminence had been
-exerting his utmost efforts to lick these Flemish bears into shape, and to
-render them a little more presentable to the public, and this freak was
-startling. But Guillaume Rym, with his polished smile, approached the
-usher.
-
-“Announce Master Jacques Coppenole, clerk of the aldermen of the city of
-Ghent,” he whispered, very low.
-
-“Usher,” interposed the cardinal, aloud, “announce Master Jacques
-Coppenole, clerk of the aldermen of the illustrious city of Ghent.”
-
-This was a mistake. Guillaume Rym alone might have conjured away the
-difficulty, but Coppenole had heard the cardinal.
-
-“No, cross of God?” he exclaimed, in his voice of thunder, “Jacques
-Coppenole, hosier. Do you hear, usher? Nothing more, nothing less. Cross
-of God! hosier; that’s fine enough. Monsieur the Archduke has more than
-once sought his _gant_\* in my hose.”
-
-_*  Got the first idea of a timing._
-
-Laughter and applause burst forth. A jest is always understood in Paris,
-and, consequently, always applauded.
-
-Let us add that Coppenole was of the people, and that the auditors which
-surrounded him were also of the people. Thus the communication between him
-and them had been prompt, electric, and, so to speak, on a level. The
-haughty air of the Flemish hosier, by humiliating the courtiers, had
-touched in all these plebeian souls that latent sentiment of dignity still
-vague and indistinct in the fifteenth century.
-
-This hosier was an equal, who had just held his own before monsieur the
-cardinal. A very sweet reflection to poor fellows habituated to respect
-and obedience towards the underlings of the sergeants of the bailiff of
-Sainte-Geneviève, the cardinal’s train-bearer.
-
-Coppenole proudly saluted his eminence, who returned the salute of the
-all-powerful bourgeois feared by Louis XI. Then, while Guillaume Rym, a
-“sage and malicious man,” as Philippe de Comines puts it, watched them
-both with a smile of raillery and superiority, each sought his place, the
-cardinal quite abashed and troubled, Coppenole tranquil and haughty, and
-thinking, no doubt, that his title of hosier was as good as any other,
-after all, and that Marie of Burgundy, mother to that Marguerite whom
-Coppenole was to-day bestowing in marriage, would have been less afraid of
-the cardinal than of the hosier; for it is not a cardinal who would have
-stirred up a revolt among the men of Ghent against the favorites of the
-daughter of Charles the Bold; it is not a cardinal who could have
-fortified the populace with a word against her tears and prayers, when the
-Maid of Flanders came to supplicate her people in their behalf, even at
-the very foot of the scaffold; while the hosier had only to raise his
-leather elbow, in order to cause to fall your two heads, most illustrious
-seigneurs, Guy d’Hymbercourt and Chancellor Guillaume Hugonet.
+华为欧洲小镇的办公设计项目是我们公司的代表作之一，它充分展现了我们的专业能力和创新精神。
+我们将继续努力，为客户创造更多优秀的办公环境，满足他们的需求并超越他们的期待。
