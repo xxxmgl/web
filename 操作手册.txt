@@ -1,0 +1,45 @@
+1.在Windows 中安装
+首先安装choco 包管理器，需要在管理员权限下运行cmd，执行如下命令，一般情况下，网络没有问题，即可安装成功：
+
+powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))"
+
+# 设置环境变量
+SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
+然后使用choco 安装 hugo：
+
+# 墙内安装可能较慢
+choco install hugo -confirm
+
+Hugo 是否安装成功
+不管在哪种系统中安装Hugo，最后我们都可以使用下面命令查看Hugo 是否安装成功：
+
+>>> hugo version
+
+
+
+
+2.开始并安装theme（参考文档：https://themes.gohugo.io/themes/tella/）
+
+$ hugo new site quickstart
+$ cd quickstart
+$ git init
+
+Inside the folder of your Hugo site run:（根据自己的需求修改主题）
+
+$ git clone https://github.com/opera7133/tella themes/tella
+Updating theme:
+
+$ cd themes/tella
+$ git pull
+
+
+
+3.下载npm（不用）
+安装node.js
+Node.js是一个Javascript运行环境。
+
+nodejs下载地址：https://nodejs.org/en/
+参考文档：https://blog.csdn.net/JingYan_Chan/article/details/125405423
+
+
+
