@@ -8,7 +8,15 @@ menu: main
 
 ---
 
+## Contact Us
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Phone: 4008-377-599
+
+Email：moderndesign@shu.com
+
+Address：10F, Building 7, Kingboard Commercial Plaza, Changning District, Shanghai, China.
+
+## Let Us Know
+Your name, company name, cell phone, and please describe your needs, such as office design, office decoration, etc.
 
 {{< form-contact action="https://example.com"  >}}

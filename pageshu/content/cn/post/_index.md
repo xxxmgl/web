@@ -1,5 +1,5 @@
 ---
-title: "方案"
+title: "案例"
 date: 2017-03-02T12:00:00-05:00
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+我们的愿景是，让每一个客户都成为纳和忠实的老客户我们一直坚持高水准的服务标准。我们一直向着“让每一个客户都成为纳和忠实的老客户"这一原景努力，我们一直致力于让设计装修更简单、更高效。

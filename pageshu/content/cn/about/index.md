@@ -1,6 +1,6 @@
 ---
 title: "关于"
-description: "Just because something looks good doesn't mean it’s useful. And just because something is useful does not make it beautiful. - Joshua Brewer"
+description: "诚信、包容、担当、创新、共赢，以诚信的态度对待每一位客户，以包容精神形成文化共识，以担当的作风树立新风正气，以创新的精神与时代同进，以共赢为目标与客户建立伙伴关系，共同成长。"
 featured_image: '/images/sh.jpg'
 menu:
   main:
@@ -9,6 +9,8 @@ menu:
 {{< figure src="/images/gongsi.jpg" title="公司总部" >}}
 
 上海现代办公设计有限公司，作为中国领先的办公空间设计和解决方案提供商，我们深信，每一个成功的企业背后都有一个强大的企业文化作为支撑。我们的企业文化不仅是我们公司发展的灵魂，也是我们与客户建立长期合作关系的基石。
+
+![Alt text](image.png)
 
 首先，我们坚信“以人为本”。我们认为，员工是公司最宝贵的资产，他们的创造力、专业能力和团队精神是推动公司持续发展的动力。因此，我们致力于为员工提供一个开放、包容、充满挑战的工作环境，鼓励他们不断学习、创新和发展。
 
