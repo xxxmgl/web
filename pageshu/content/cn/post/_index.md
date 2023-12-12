@@ -2,4 +2,6 @@
 title: "方案"
 date: 2017-03-02T12:00:00-05:00
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+Good design is obvious. Great design is transparent. \
+好的设计是显而易见的。伟大的设计是透明的 \
+Joe Sparano
